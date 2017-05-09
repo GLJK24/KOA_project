@@ -1,0 +1,22 @@
+{
+    "name": "KOA_project",
+    "version": "1.0.0",
+    "description": "A koa project",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "keywords": [
+        "koa",
+        "async"
+    ],
+    "author": "GLJK24",
+    "license": "Apache-2.0",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/GLJK24/KOA_project.git"
+    },
+    "dependencies": {
+        "koa": "2.0.0"
+    }
+}
